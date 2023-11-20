@@ -1,0 +1,2 @@
+Command 'bowtie2' not found, but can be installed with:
+sudo apt install bowtie2
