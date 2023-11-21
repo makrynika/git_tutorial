@@ -1,7 +1,7 @@
 FROM ubuntu:16.04
 
 LABEL description = "Image for the NBIS reproducible research course."
-MAINTAINER "John Sundh" john.sundh@scilifelab.se
+MAINTAINER "John Sundh" john.sundh@scilifelab.se +++
 
 # Use bash as shell
 SHELL ["/bin/bash", "-c"]
